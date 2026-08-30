@@ -1,0 +1,25 @@
+{
+  "name": "the-ai-prof",
+  "owner": {
+    "name": "The AI Prof",
+    "url": "https://github.com/prowin89"
+  },
+  "description": "Skills for AI-augmented scholarly practice — by The AI Prof.",
+  "plugins": [
+    {
+      "name": "scholarly-writing",
+      "source": "./plugins/scholarly-writing",
+      "description": "End-to-end scholarly manuscript authoring for journal papers, theses, and systematic reviews.",
+      "version": "0.1.0",
+      "category": "academic",
+      "keywords": [
+        "scholarly-writing",
+        "academic-writing",
+        "manuscript",
+        "systematic-review",
+        "literature-review",
+        "research"
+      ]
+    }
+  ]
+}
