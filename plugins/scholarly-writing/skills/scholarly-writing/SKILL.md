@@ -2,8 +2,9 @@
 name: scholarly-writing
 description: Authors scholarly manuscripts end to end — plan, extract, synthesise, theorise, draft, revise, critique, respond to reviewers, QA. Use for journal papers, theses, and systematic reviews.
 ---
-Scholarly writing
-What this skill is for
+# Scholarly writing
+
+## What this skill is for
 
 This skill supports authoring a scholarly contribution end to end: framing the question, building the argument and theory, reading, extracting from, and synthesising the literature, writing and tightening the manuscript, stress-testing it, responding to reviewers, and certifying it for submission. Prose quality matters, but it is downstream of the harder work — a clear contribution, a sound argument, an honestly evidenced claim. Treat the writing as the surface of a structure that must hold.
 
