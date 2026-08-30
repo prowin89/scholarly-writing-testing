@@ -2,7 +2,7 @@
 
 **A Claude Skill for end-to-end scholarly manuscript authoring — journal papers, theses, systematic reviews.**
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](<a href="https://github.com/prowin89/Scholarly-Writing">Scholarly writing </a> © 2026 by <a href="https://github.com/prowin89">Prowin</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">)
 [![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/prowin89/scholarly-writing/releases)
 [![Built for Claude](https://img.shields.io/badge/built%20for-Claude-orange.svg)](https://claude.ai)
 
