@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this skill in your research, please cite it as below."
+title: "scholarly-writing: A Claude Skill for end-to-end scholarly manuscript authoring"
+version: 0.1.0
+date-released: 2026-08-30
+url: "https://github.com/prowin89/scholarly-writing"
+repository-code: "https://github.com/prowin89/scholarly-writing"
+license: CC-BY-4.0
+type: software
+authors:
+  - name: "The AI Prof"
+    website: "https://github.com/prowin89"
+keywords:
+  - scholarly-writing
+  - academic-writing
+  - claude-skill
+  - manuscript
+  - systematic-review
+  - literature-review
+  - research-authoring
